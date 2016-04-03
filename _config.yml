@@ -1,0 +1,14 @@
+layout_spectrum: 0.2401434
+typography_spectrum: 0.4426523
+color:
+  saturation: 0.7766058
+  lightness: 0.2588316
+  brandStrength: 0.8336489
+  rhythmicContrast: 0.4360918
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Jun
